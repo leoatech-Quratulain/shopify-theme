@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "apps",
+      "blocks": {
+        "6504-3f5c-0c9b-d2a7-iusbg": {
+          "type": "shopify:\/\/apps\/frontenddev_app_v2\/blocks\/firstPage\/bd47ecdb-a01a-443a-b93a-c0dfeddb2609",
+          "settings": {
+            "show_header_footer": false,
+            "campaign_name": "NewFeatureTest",
+            "background_overlay": "linear-gradient(#ffffff, #000000)",
+            "main_color": "#000000",
+            "accent_color": "#ffffff",
+            "layout": "diagonal",
+            "header_text": "Sign Up to Rediscover Yourself",
+            "subheader_text": "",
+            "cta_tag_text": "",
+            "email_text": "Your Email",
+            "phone_text": "",
+            "button_text": "I am in!",
+            "base_font_size": 64,
+            "page": "rewardspage_72yr0o0xi3g"
+          }
+        }
+      },
+      "block_order": [
+        "6504-3f5c-0c9b-d2a7-iusbg"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

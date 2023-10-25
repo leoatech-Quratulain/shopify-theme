@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "apps",
+      "blocks": {
+        "463c-10f6-fdc0-cc2b-zb3eo": {
+          "type": "shopify:\/\/apps\/frontenddev_app_v2\/blocks\/firstPage\/bd47ecdb-a01a-443a-b93a-c0dfeddb2609",
+          "settings": {
+            "show_header_footer": false,
+            "campaign_name": "NewFeatureCamp",
+            "background_overlay": "linear-gradient(#ffffff, #000000)",
+            "main_color": "#ffffff",
+            "accent_color": "#000000",
+            "layout": "none-horizontal",
+            "header_text": "Designing the Future",
+            "subheader_text": "",
+            "cta_tag_text": "",
+            "email_text": "Email",
+            "phone_text": "",
+            "button_text": "Take me too!",
+            "base_font_size": 64,
+            "page": "rewardspage_i28ij8jnyo"
+          }
+        }
+      },
+      "block_order": [
+        "463c-10f6-fdc0-cc2b-zb3eo"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
